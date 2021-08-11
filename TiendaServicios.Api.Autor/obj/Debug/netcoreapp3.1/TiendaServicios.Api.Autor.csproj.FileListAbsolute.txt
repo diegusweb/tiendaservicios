@@ -46,3 +46,5 @@ D:\Development\2021\net\microServicesTienda\TiendaServicios\TiendaServicios.Api.
 D:\Development\2021\net\microServicesTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
 D:\Development\2021\net\microServicesTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
 D:\Development\2021\net\microServicesTienda\TiendaServicios\TiendaServicios.Api.Autor\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Autor.MvcApplicationPartsAssemblyInfo.cs
+D:\Development\2021\net\microServicesTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Development\2021\net\microServicesTienda\TiendaServicios\TiendaServicios.Api.Autor\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
