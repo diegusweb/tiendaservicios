@@ -24,7 +24,7 @@ namespace TiendaServicios.Api.Libro.Application
 
             private readonly IMapper _mapper;
 
-            private Manejador(ContextoLibreria contexto, IMapper mapper)
+            public Manejador(ContextoLibreria contexto, IMapper mapper)
             {
                 _contexto = contexto;
                 _mapper = mapper;
