@@ -59,3 +59,4 @@ D:\Development\2021\net\microServicesTienda\TiendaServicios\TiendaServicios.Api.
 D:\Development\2021\net\microServicesTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.dll
 D:\Development\2021\net\microServicesTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.pdb
 D:\Development\2021\net\microServicesTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.genruntimeconfig.cache
+D:\Development\2021\net\microServicesTienda\TiendaServicios\TiendaServicios.Api.Libro\obj\Debug\netcoreapp3.1\TiendaServicios.Api.Libro.csprojAssemblyReference.cache
